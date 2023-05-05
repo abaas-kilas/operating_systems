@@ -1,0 +1,7 @@
+//sample output
+
+Parent writes: {s}
+Parent reads: {s}
+Child reads: {s}
+Child writes: {x}
+Parent reads: {s}
